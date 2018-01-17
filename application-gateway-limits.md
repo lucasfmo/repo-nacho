@@ -16,5 +16,5 @@
 | Nombre de sites |20 |1 par écouteur HTTP |
 | Mappages d’URL par écouteur |1 | |
 | Taille de téléchargement maximale Standard |2 Go | |
-| Taille de téléchargement maximale WAF |100 Mo| |
+| Taille de téléchargement maximale WAF |100 Mo| |fdyfasdgiguiaopasg
 
